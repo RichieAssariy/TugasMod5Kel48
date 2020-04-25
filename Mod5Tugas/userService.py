@@ -22,11 +22,11 @@ class userService(object):
         self.history = {
             "richiekelompok48@gmail.com" : {
                 "peminjaman_buku" : {'Fisika Dasar', 'Dasar Komputer dan Pemrograman'} ,
-                "tanggal_pinjam" : "01-08-2020"
+                "tanggal_pinjam" : "25-04-2020"
                 },
             "abamkelompok48@gmail.com" : {
                 "peminjaman_buku": {'Kalkulus', 'Dasar Komputer dan Pemrograman', 'Konsep Jaringan Komputer'},
-                "tanggal_pinjam" : "12-01-2020",
+                "tanggal_pinjam" : "25-04-2020",
                 }
             }
     def login(self):
